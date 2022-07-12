@@ -1,0 +1,41 @@
+<svg id="组_66149" data-name="组 66149" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="27.947" height="39.591" viewBox="0 0 27.947 39.591">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e3e3e3;
+      }
+
+      .cls-2 {
+        fill: #ababb5;
+      }
+
+      .cls-3 {
+        fill: #fef8ff;
+      }
+
+      .cls-4 {
+        opacity: 0.405;
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #fff;
+        font-size: 15px;
+        font-family: Futura-Medium, Futura;
+        font-weight: 500;
+      }
+    </style>
+    <linearGradient id="linear-gradient" y1="0.5" x2="0.993" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff" stop-opacity="0"/>
+      <stop offset="0.448" stop-color="#fff"/>
+      <stop offset="1" stop-color="#fff" stop-opacity="0.043"/>
+    </linearGradient>
+  </defs>
+  <rect id="矩形_16087" data-name="矩形 16087" class="cls-1" width="18.631" height="25.618" transform="translate(4.658 0)"/>
+  <rect id="矩形_16088" data-name="矩形 16088" class="cls-2" width="3.493" height="25.618" transform="translate(6.987 0)"/>
+  <rect id="矩形_16089" data-name="矩形 16089" class="cls-2" width="3.493" height="25.618" transform="translate(17.467 0)"/>
+  <circle id="椭圆_589" data-name="椭圆 589" class="cls-3" cx="13.973" cy="13.973" r="13.973" transform="translate(0 11.644)"/>
+  <circle id="椭圆_590" data-name="椭圆 590" class="cls-2" cx="11.644" cy="11.644" r="11.644" transform="translate(2.329 13.973)"/>
+  <rect id="矩形_16090" data-name="矩形 16090" class="cls-4" width="18.631" height="4.658" transform="translate(4.658 0)"/>
+  <text id="_2" data-name="2" class="cls-5" transform="translate(9.316 32.302)"><tspan x="0" y="0">2</tspan></text>
+</svg>
