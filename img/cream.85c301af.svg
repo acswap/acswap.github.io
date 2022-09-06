@@ -1,0 +1,14 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="32" cy="32" r="31.75" fill="url(#paint0_radial)" fill-opacity="0.05" stroke="url(#paint1_linear)" stroke-width="0.5"/>
+<path d="M32 16C23.1583 16 16 23.1583 16 32C16 40.8417 23.1583 48 32 48C40.8417 48 48 40.8417 48 32C48 23.1583 40.8417 16 32 16ZM33.6151 33.0402C35.4491 34.8743 37.2831 36.7083 39.1172 38.556C39.9247 39.3636 39.87 40.0205 38.9666 40.7049C32.479 45.6048 22.8571 41.5124 21.858 33.4234C21.0368 26.8537 26.0188 21.1873 32.6022 21.1873C34.9564 21.1873 37.0778 21.8991 38.9803 23.2951C39.8973 23.9658 39.9521 24.6228 39.1309 25.444C37.2968 27.2917 35.4628 29.1257 33.6287 30.9598C32.8486 31.7263 32.8486 32.2601 33.6151 33.0402Z" fill="#89DFDB"/>
+<defs>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(32 32) rotate(90) scale(32)">
+<stop stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<linearGradient id="paint1_linear" x1="32" y1="0" x2="32" y2="64" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4B4C4D"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

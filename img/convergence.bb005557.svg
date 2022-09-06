@@ -1,0 +1,16 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="32" cy="32" r="31.75" fill="url(#paint0_radial)" fill-opacity="0.05" stroke="url(#paint1_linear)" stroke-width="0.5"/>
+<path d="M32 48C40.8366 48 48 40.8366 48 32C48 23.1634 40.8366 16 32 16C23.1634 16 16 23.1634 16 32C16 40.8366 23.1634 48 32 48Z" fill="white"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M32 20.8C35.0856 20.8 37.88 22.048 39.9056 24.0664L36.9352 27.036C35.6696 25.7776 33.9256 25 32 25C28.1344 25 25 28.1344 25 32C25 35.8656 28.1344 39 32 39C33.9256 39 35.6688 38.2224 36.9344 36.9648L39.9056 39.9336C37.88 41.952 35.0856 43.2 32 43.2C25.8144 43.2 20.8 38.1856 20.8 32C20.8 25.8144 25.8144 20.8 32 20.8Z" fill="#D52D43"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.5745 26.1856C42.6065 27.88 43.2001 29.8712 43.2001 32C43.2001 34.1288 42.6057 36.12 41.5745 37.8144L35.7609 32L41.5745 26.1856Z" fill="#5A4EC0"/>
+<defs>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(32 32) rotate(90) scale(32)">
+<stop stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<linearGradient id="paint1_linear" x1="32" y1="0" x2="32" y2="64" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4B4C4D"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
