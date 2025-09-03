@@ -1,0 +1,15 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="32" cy="32" r="31.75" fill="url(#paint0_radial)" fill-opacity="0.05" stroke="url(#paint1_linear)" stroke-width="0.5"/>
+<path d="M32 48C40.8366 48 48 40.8366 48 32C48 23.1634 40.8366 16 32 16C23.1634 16 16 23.1634 16 32C16 40.8366 23.1634 48 32 48Z" fill="#252525"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M22 25.4815L22.8148 25.6296C22.8148 25.6296 22.9292 23.1111 31.1111 23.4074C28.4691 24.6914 24.4593 28.2815 29.5556 32.3704C27.7778 32.8642 24.2222 34.6222 24.2222 37.7037C24.2222 41.5556 29.1852 42.6667 32.3704 42.6667C35.5556 42.6667 39.7778 40.5926 39.7778 37.7037C39.7778 34.8148 36.7407 33.1111 32.6667 31.1111C28.5926 29.1111 28.0741 25.6296 33.2593 23.6296C34.963 23.6296 38.8 23.6741 40.5185 23.8518L41.1852 21.7037H25.2593C24.9383 21.7037 24.1185 21.6296 23.4074 21.3333C23.1852 22.2963 22.5926 24.4741 22 25.4815ZM30.5185 32.8148C29.3333 33.1605 26.963 34.5333 26.963 37.2593C26.963 40.6667 30.4445 41.7778 32.4445 41.7778C34.4445 41.7778 37.1852 40.8889 37.1852 38.3704C37.1852 35.9759 34.7465 34.8608 32.6005 33.8796C31.8254 33.5252 31.0885 33.1883 30.5185 32.8148Z" fill="white"/>
+<defs>
+<radialGradient id="paint0_radial" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(32 32) rotate(90) scale(32)">
+<stop stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<linearGradient id="paint1_linear" x1="32" y1="0" x2="32" y2="64" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4B4C4D"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>

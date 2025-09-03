@@ -1,0 +1,33 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+<circle cx="32" cy="32" r="31.75" fill="url(#paint0_radial_16369_164391)" fill-opacity="0.05" stroke="url(#paint1_linear_16369_164391)" stroke-width="0.5"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.75 21.5C40.8211 21.5 42.5 19.8211 42.5 17.75C42.5 15.6789 40.8211 14 38.75 14C36.6789 14 35 15.6789 35 17.75C35 19.8211 36.6789 21.5 38.75 21.5ZM38.75 20C39.9926 20 41 18.9926 41 17.75C41 16.5074 39.9926 15.5 38.75 15.5C37.5074 15.5 36.5 16.5074 36.5 17.75C36.5 18.9926 37.5074 20 38.75 20Z" fill="#EDA53A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M17 35C18.6569 35 20 33.6569 20 32C20 30.3431 18.6569 29 17 29C15.3431 29 14 30.3431 14 32C14 33.6569 15.3431 35 17 35ZM17 33.5C17.8284 33.5 18.5 32.8284 18.5 32C18.5 31.1716 17.8284 30.5 17 30.5C16.1716 30.5 15.5 31.1716 15.5 32C15.5 32.8284 16.1716 33.5 17 33.5Z" fill="#EDA53A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M42.5 45.5C42.5 47.1569 41.1569 48.5 39.5 48.5C37.8431 48.5 36.5 47.1569 36.5 45.5C36.5 43.8431 37.8431 42.5 39.5 42.5C41.1569 42.5 42.5 43.8431 42.5 45.5ZM41 45.5C41 46.3284 40.3284 47 39.5 47C38.6716 47 38 46.3284 38 45.5C38 44.6716 38.6716 44 39.5 44C40.3284 44 41 44.6716 41 45.5Z" fill="#EDA53A"/>
+<path d="M29.75 32C29.75 30.7142 30.2182 30.0082 30.7625 29.6C31.3431 29.1645 32.1047 29 32.75 29C33.7552 29 34.3632 29.4238 34.4697 29.5303L35.5303 28.4697C35.1368 28.0762 34.1448 27.5 32.75 27.5C31.8953 27.5 30.7819 27.7105 29.8625 28.4C28.9068 29.1168 28.25 30.2858 28.25 32C28.25 33.7142 28.9068 34.8832 29.8625 35.6C30.7819 36.2895 31.8953 36.5 32.75 36.5C34.1448 36.5 35.1368 35.9238 35.5303 35.5303L35.75 35.3107V32H34.25V34.6261C33.9734 34.7879 33.4611 35 32.75 35C32.1047 35 31.3431 34.8355 30.7625 34.4C30.2182 33.9918 29.75 33.2858 29.75 32Z" fill="#EDA53A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.0933 26.75L32 21.5L22.9067 26.75V37.25L32 42.5L41.0933 37.25V26.75ZM32 23.232L24.4067 27.616V36.384L32 40.7679L39.5933 36.384V27.616L32 23.232Z" fill="#EDA53A"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M36.5068 16.1231C35.0743 15.7172 33.5625 15.5 31.9999 15.5C23.9117 15.5 17.1827 21.3196 15.772 29H17.3C18.6898 22.1533 24.743 17 31.9999 17C33.3888 17 34.7337 17.1888 36.0102 17.5421L36.5068 16.1231Z" fill="url(#paint2_linear_16369_164391)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M41.2602 18.3418L40.6255 19.7267C44.4811 22.4413 47.0001 26.9266 47.0001 32.0002C47.0001 36.7447 44.7974 40.9746 41.3589 43.7233L41.6598 45.3785C45.8038 42.3811 48.5001 37.5056 48.5001 32.0002C48.5001 26.3199 45.6297 21.31 41.2602 18.3418Z" fill="url(#paint3_linear_16369_164391)"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M38.2678 47.2679L37.1078 46.1079C35.5136 46.6852 33.7935 47 32 47C24.4804 47 18.2532 41.4669 17.1676 34.25L15.6521 34.25C16.7495 42.2983 23.6505 48.5 32 48.5C34.2188 48.5 36.3353 48.062 38.2678 47.2679Z" fill="url(#paint4_linear_16369_164391)"/>
+<defs>
+<radialGradient id="paint0_radial_16369_164391" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(32 32) rotate(90) scale(32)">
+<stop stop-opacity="0"/>
+<stop offset="1" stop-color="white"/>
+</radialGradient>
+<linearGradient id="paint1_linear_16369_164391" x1="32" y1="0" x2="32" y2="64" gradientUnits="userSpaceOnUse">
+<stop stop-color="#4B4C4D"/>
+<stop offset="1" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint2_linear_16369_164391" x1="35.7499" y1="17" x2="16.9999" y2="27.5" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EDA53A"/>
+<stop offset="1" stop-color="#EDA53A" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint3_linear_16369_164391" x1="41.7501" y1="44.6321" x2="42.5375" y2="20.8108" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EDA53A"/>
+<stop offset="1" stop-color="#EDA53A" stop-opacity="0"/>
+</linearGradient>
+<linearGradient id="paint4_linear_16369_164391" x1="16.7403" y1="35" x2="33.7889" y2="43.6845" gradientUnits="userSpaceOnUse">
+<stop stop-color="#EDA53A"/>
+<stop offset="1" stop-color="#EDA53A" stop-opacity="0"/>
+</linearGradient>
+</defs>
+</svg>
