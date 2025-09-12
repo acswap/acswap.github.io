@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="709" height="134" viewBox="0 0 709 134">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #655cf3;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        opacity: 0.17;
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="矩形_21469" data-name="矩形 21469" class="cls-1" d="M0,0H709a0,0,0,0,1,0,0V104a30,30,0,0,1-30,30H30A30,30,0,0,1,0,104V0A0,0,0,0,1,0,0Z" transform="translate(0 -0.48)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient" x1="0.028" y1="1.655" x2="0.848" y2="0.125" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e9ecff"/>
+      <stop offset="0.207" stop-color="#e9ecff"/>
+      <stop offset="0.571" stop-color="#bfe3f1"/>
+      <stop offset="1" stop-color="#0cc9b5"/>
+    </linearGradient>
+  </defs>
+  <g id="组_56890" data-name="组 56890" transform="translate(0 74.094)">
+    <g id="蒙版组_33" data-name="蒙版组 33" class="cls-2" transform="translate(0 -73.613)">
+      <g id="组_56884" data-name="组 56884" transform="translate(-30.587 22.828)">
+        <g id="组_56883" data-name="组 56883" transform="translate(0)">
+          <path id="路径_32834" data-name="路径 32834" class="cls-3" d="M-371.637,2378.059s-54.592,34.543-106.554,38.413c-1.961.6-40.2,8.338-76.473-6.848-1.961-.894-39.218-15.485-39.218-15.485s-14.706-9.23-53.924-2.084c-.98.894-27.451,8.636-65.688-4.764-2.941-.3-39.217-14.591-55.884-13.4s-32.354,1.788-70.591,22.93c-1.96.3-42.158,24.119-67.649,24.119-1.962-.3-40.2,3.871-95.1-26.8-2.941-.6-40.2-20.844-59.806-23.227s-39.217-4.764-50-6.847-26.473-7.445-26.473-7.445v163.775h767.363Z" transform="translate(1139 -2356.619)"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
